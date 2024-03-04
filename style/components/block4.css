@@ -1,0 +1,167 @@
+.block4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.block4-bl1{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.block4-img1 img{
+    width: 430px;
+    height: 630px;
+    margin-right: 70px;
+}
+
+.block4-txt1{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    font-size: 20px;
+}
+
+.block4-txt1 h1{
+    font-size: 30px;
+    color: red;
+    font-weight: bolder;
+}
+
+.block4-bl2{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    height: 600px;
+}
+
+.block4-img2 img{
+    width: 430px;
+    height: 290px;
+    margin: 140px 70px 140px 0;
+}
+
+.block4-txt2{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    font-size: 20px;
+}
+
+.block4-txt2 h1{
+    font-size: 30px;
+    color: red;
+    font-weight: bolder;
+}
+
+.block4-bl3{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+}
+
+.block4-img3 img{
+    width: 430px;
+    height: 290px;
+    margin: 50px 70px 50px 0;
+}
+
+.block4-txt3{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    font-size: 20px;
+}
+
+.block4-txt3 h1{
+    font-size: 30px;
+    color: red;
+    font-weight: bolder;
+}
+
+.block4-bl4{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+}
+
+.block4-img4 img{
+    width: 430px;
+    height: 290px;
+    margin: 90px 70px 90px 0;
+}
+
+.block4-txt4{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    font-size: 20px;
+}
+
+.block4-txt4 h1{
+    font-size: 30px;
+    color: red;
+    font-weight: bolder;
+}
+
+.block4-bl5{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.block4-img5 img{
+    width: 430px;
+    height: 630px;
+    margin-right: 70px;
+}
+
+.block4-txt5{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.block4-txt5 h1{
+    font-size: 30px;
+    color: red;
+    font-weight: bolder;
+}
+
+.block4-btn{
+    margin-top: 30px;
+    background-color: rgb(44, 183, 44);
+    width: 280px;
+    height: 40px;
+    border: none;
+    border-radius: 50px;
+    font-weight: bold;
+    color: white;
+    transition: .4s;
+}
+
+.block4-btn:hover{
+    background-color: rgb(192, 255, 192);
+}

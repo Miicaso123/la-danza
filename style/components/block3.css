@@ -1,0 +1,22 @@
+.block3{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.block3 h1{
+    font-weight: bolder;
+    font-size: 40px;
+    color: red;
+}
+
+.block3 p{
+    text-align: left;
+    margin: 30px 0;
+    font-size: 28px;
+    width: 40%;
+}
